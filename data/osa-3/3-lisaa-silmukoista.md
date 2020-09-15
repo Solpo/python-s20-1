@@ -236,6 +236,7 @@ while luku > 0:
         print(f"{i} ", end="")
         i += 1
     print()
+    luku -= 1
 ```
 
 <sample-output>
